@@ -1,0 +1,30 @@
+# Never commit music — bring your own
+*.sid
+*.spc
+*.vgm
+*.vgz
+*.nsf
+*.nsfe
+*.gbs
+*.kss
+*.ay
+*.mp3
+*.flac
+*.wav
+*.mod
+*.xm
+*.it
+*.s3m
+*.ogg
+*.opus
+
+# GME build intermediates / cloned upstream source
+build/game-music-emu/
+build/build-wasm/
+*.o
+*.a
+
+# OS / editor cruft
+.DS_Store
+*~
+.*.swp
