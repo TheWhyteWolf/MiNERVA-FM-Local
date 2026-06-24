@@ -8,6 +8,8 @@ spectrum analyser, scrolling ticker, phosphor glow, and a dot→line→fill powe
 > **Bring your own music.** This repo ships **no audio** by design. Load your own
 > `.sid .spc .vgm .vgz .mp3 .flac .wav` files — you are responsible for the rights to anything you play.
 
+**▶ Live:** https://thewhytewolf.github.io/MiNERVA-FM-Local/
+
 ## Run
 
 ```bash
